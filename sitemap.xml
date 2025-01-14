@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/ch0/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/ch0/overview/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/introduction/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/introduction/contribution-and-support/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/introduction/overview/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/introduction/wgpu-api/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/other_tutorials/</loc>
+    </url>
+    <url>
+        <loc>https://abdullahelsheshtawy.github.io/wgpu-guide/other_tutorials/learn-wgpu/</loc>
+    </url>
+</urlset>
